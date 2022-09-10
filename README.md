@@ -1,0 +1,1 @@
+Projeto para minerar todos os 250 filmes do ranking principal do IMDB (https://www.imdb.com/chart/top/) utilizando Python, BeautifulSoup e requests. Após a mineração de todos os dados disponiveis, foi criado um dataframe com os dados e realizada uma limpeza dos dados com a biblioteca Pandas.
